@@ -1,4 +1,4 @@
-# Registration Page test
+# Registration Page Test
 
 **Version 1.0.0**
 
